@@ -1,6 +1,9 @@
-# kstd 
+# kstd ( Kernel Standard Template Library )
 
-Implementing some STL C++ classes in kernel mode :)
+For obvious reasons the normal C++ `STL` libraries are not usable in `kernel Mode` 
+and since sometime doing all the string / list allocations manually 
+in `kernel mode` can be tedious i decided to implement some basic `STL` functionalities in order
+to simplify the process.
 
 ### Classes:
 - [x] string
