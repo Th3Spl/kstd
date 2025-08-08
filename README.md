@@ -9,3 +9,5 @@ to simplify the process.
 - [x] string
 - [x] wstring
 - [x] vector
+
+A big thanks to my friend [`FURYWOLF`](https://github.com/xxFURYWOLFxx) for the collaboration.
